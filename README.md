@@ -43,22 +43,29 @@ De forma consolidada, as fontes apresentam uma biografia detalhada de Warren Buf
 Além dos negócios, os materiais ressaltam seu estilo de vida simples, seus hábitos peculiares e sua forte atuação na filantropia, especialmente por meio do compromisso de doar a maior parte de sua fortuna. As fontes também abordam suas parcerias icônicas, como a construída com **Charlie Munger**, e mostram o impacto duradouro de seus ensinamentos no mercado financeiro mundial.
 
 ### Fontes utilizadas
-> **Observação:** substitua os itens abaixo pelos links reais das fontes que você enviou ao NotebookLM.
 
-1. **Fonte 1 — Biografia / trajetória de Warren Buffett**  
-   Link: [inserir link]
+1. **Fonte 1 — Como WARREN BUFFETT construiu sua fortuna**  
+   Link: [https://www.youtube.com/watch?v=VTEyZINF4G4]
 
-2. **Fonte 2 — Filosofia de investimento e Value Investing**  
-   Link: [inserir link]
+2. **Fonte 2 — Value Investing: a estratégia de Warren Buffett para investir no longo prazo**  
+   Link: [https://www.youtube.com/watch?v=qdbdz_zKyMw]
 
-3. **Fonte 3 — Berkshire Hathaway, parcerias e legado**  
-   Link: [inserir link]
+3. **Fonte 3 — Quais os segredos e lições de Warren Buffett?**  
+   Link: [https://www.youtube.com/watch?v=awYT6DjknXI]
 
-4. **Fonte 4 — Estilo de vida, hábitos e visão de longo prazo**  
-   Link: [inserir link]
+4. **Fonte 4 — Da Infância à Fortuna: A história de WARREN BUFFETT**  
+   Link: [https://www.youtube.com/watch?v=JHglgl9T3Kw]
 
-5. **Fonte 5 — Filantropia e impacto no mercado financeiro**  
-   Link: [inserir link]
+5. **Fonte 5 — Warren Buffett | Wikipedia**  
+   Link: [https://pt.wikipedia.org/wiki/Warren_Buffett]
+
+6. **Fonte 6 — Warren Buffett: A filosofia de vida "invertida"**  
+   Link: [https://www.bbc.com/portuguese/internacional-48537273]
+
+7. **Fonte 7 — Warren Buffett | Forbes**  
+   Link: [https://www-forbes-com.translate.goog/profile/warren-buffett/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc]
+
+   *Obs.:Fontes adicionais se encontram no [NotebookLM](https://notebooklm.google.com/notebook/4303cae8-cc27-481d-93e1-74e3bc9fcbd3)*
 
 ### Critérios de seleção das fontes
 As fontes foram escolhidas com base nos seguintes critérios:
@@ -83,8 +90,6 @@ O NotebookLM foi utilizado como apoio para:
 ### Link do notebook
 [Notebook criado no NotebookLM](https://notebooklm.google.com/notebook/4303cae8-cc27-481d-93e1-74e3bc9fcbd3)
 
-> Observação: o acesso ao notebook pode depender das permissões de compartilhamento configuradas.
-
 ---
 
 ## Engenharia de prompts e aprendizados do processo
@@ -94,10 +99,10 @@ Durante a exploração do conteúdo, utilizei prompts com diferentes objetivos: 
 
 #### Prompt 1 — Visão geral do personagem
 **Prompt:**  
-"Explique quem foi Warren Buffett, destacando sua trajetória, sua importância no mercado financeiro e os fatores que o tornaram uma referência mundial em investimentos."
+"Explique como Warren Buffett aplicaria o Value Investing em tempos atuais?"
 
 **Resultado obtido:**  
-A resposta ajudou a construir uma visão ampla sobre Buffett, unindo biografia, reputação no mercado e principais marcos de sua carreira.
+A resposta ajudou a construir algo bem concisoda visão de Buffett sobre o mercado "inflado" atual.
 
 **Aprendizado:**  
 Prompts introdutórios funcionam bem para criar uma base geral antes de aprofundar o estudo.
@@ -261,7 +266,7 @@ Abaixo estão prompts que podem ser reutilizados em estudos futuros com o Notebo
 ---
 
 ## Conclusão
-Este projeto mostrou como o **NotebookLM** pode ser utilizado como ferramenta de apoio ao aprendizado, permitindo reunir fontes, sintetizar informações e estruturar conhecimento de forma mais estratégica.
+Este projeto mostrou como o **NotebookLM** pode ser utilizado como ferramenta de apoio ao aprendizado e vida profissional, permitindo reunir fontes, sintetizar informações e estruturar conhecimento de forma mais estratégica.
 
 Ao estudar Warren Buffett, foi possível compreender que seu sucesso não está ligado apenas ao capital acumulado, mas principalmente à consistência de seus princípios, à disciplina na tomada de decisão e à clareza de sua filosofia de investimento.
 
@@ -269,7 +274,7 @@ Além do conteúdo estudado sobre mercado financeiro, este projeto também refor
 
 ---
 
-## Estrutura sugerida do repositório
+## Estrutura do repositório
 ```bash
 miniguia-estudos-notebooklm/
 ├── README.md
@@ -283,29 +288,7 @@ miniguia-estudos-notebooklm/
 
 ---
 
-## Como entregar na DIO
-1. Criar um repositório no GitHub com um nome descritivo.  
-2. Adicionar este conteúdo ao `README.md`.  
-3. Inserir os links reais das fontes utilizadas no NotebookLM.  
-4. Publicar o repositório.  
-5. Copiar a URL principal do repositório.  
-6. Colar o link na plataforma da DIO com uma descrição objetiva do projeto.
-
----
-
-## Sugestão de nome para o repositório
-- `caderno-tematico-warren-buffett-notebooklm`
-- `miniguia-warren-buffett-notebooklm`
-- `estudos-warren-buffett-com-notebooklm`
-
----
-
-## Sugestão de descrição curta para enviar na DIO
-"Neste projeto, utilizei o NotebookLM para construir um caderno temático sobre a história de Warren Buffett e sua filosofia de investimento. O repositório documenta os objetivos de estudo, a curadoria das fontes, os prompts testados e um miniguia final com os principais conceitos aprendidos sobre sua trajetória, o Value Investing e seu legado no mercado financeiro."
-
----
-
 ## Autor
-**[Seu nome]**  
+**[Lucas Sousa]**  
 Projeto desenvolvido como parte de desafio prático da DIO.
 
